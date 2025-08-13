@@ -91,11 +91,11 @@ Since reproducing natural smells with current tech is impractical, I shifted the
 ---
 
 ## 📄 License
-MIT License – feel free to use, adapt, and build upon this work.
+Need to get MIT LICENse
 
 ---
 
 ## 👤 Author
 **Nurlykhan Kopenov**  
-📧 [Your Email]  
-🔗 [LinkedIn or Portfolio Link]
+📧 [nurlykhan.kopenov@gmail.com]
+
