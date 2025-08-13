@@ -1,0 +1,27 @@
+# Node / RN
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo/
+.expo-shared/
+dist/
+build/
+
+# iOS / Xcode
+ios/Pods/
+ios/build/
+ios/DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+*.iml
+
+# Misc
+.DS_Store
