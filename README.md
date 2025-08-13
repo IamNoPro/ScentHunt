@@ -84,14 +84,14 @@ Since reproducing natural smells with current tech is impractical, I shifted the
 ---
 
 ## ⚙ Tech Stack
-- **Hardware:** ESP32, ultrasonic mist makers, 3D-printed enclosure
-- **Software:** Xcode (iOS), BLE communication
-- **Design:** Fusion 360 (3D modeling)
+- **Hardware:** ESP32, ultrasonic mist makers, 3D-printed enclosure, Arduino KIT, Mosfet
+- **Software:** Xcode (iOS), BLE communication, Visual Studio Code, React Native
+- **Design:** Fusion 360 (3D modeling), Tinkercad
 
 ---
 
 ## 📄 License
-Need to get MIT LICENse
+MIT License – feel free to use, adapt, and build upon this work.
 
 ---
 
