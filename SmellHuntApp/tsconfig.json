@@ -1,0 +1,14 @@
+{
+  "extends": "@react-native/typescript-config",
+  "compilerOptions": {
+    // add your custom types dir
+    "typeRoots": [
+      "node_modules/@types",
+      "src/types"
+    ]
+  },
+  "include": [
+    "src",                  // all your TS/TSX files
+    "src/types/**/*.d.ts"   // your manual declarations
+  ]
+}
