@@ -1,2 +1,2 @@
-# ScentHunt
-Smell based navigation device for Treasure Hunt game
+# ScentHunt - A GPS-based scent navigation device for treasure hunts
+
