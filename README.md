@@ -71,15 +71,15 @@ Since reproducing natural smells with current tech is impractical, I shifted the
 ## 📷 Gallery
 
 ### Hardware Prototype
-![Prototype with exposed components](Nurlykjan%20Kopenov%20-%20Image1.jpg)
-![First assembled prototype](Nurlykhan%20Kopenov%20-%20Image2.jpg)
+![Prototype with exposed components](docs/prot2.jpg)
+![First assembled prototype](docs/prot1.jpg)
 
 ### Mobile App Screens
-![App start screen](Nurlykhan%20Kopenov%20-%20Image4.jpg)
-![Seeker map interface](Nurlykhan%20Kopenov%20-%20Image5.jpg)
+![App start screen](docs/prot3.jpg)
+![Seeker map interface](docs/prot4.jpg)
 
 ### Final Enclosure Design
-![Final prototype with closed enclosure](Nurlykhan%20Kopenov%20-%20Image3.jpg)
+![Final prototype with closed enclosure](docs/prot1.jpg)
 
 ---
 
